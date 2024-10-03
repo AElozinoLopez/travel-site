@@ -12,7 +12,7 @@ module.exports = {
         rules: [
             {
                 test: /\.css$/i,  //This tells webpack to treat any file with .css extension
-                use: ['style-loader', 'css-loader']  //This allows webpack to apply the style to the browser and bundle the css file respectively.
+                use: ['style-loader', 'css-loader', {loader: "postcss-loader" options: {postcssOptions: {plugins: postCSSPlugins}}}]  //This allows webpack to apply the style to the browser and bundle the css file respectively.
             }
         ]
     }
