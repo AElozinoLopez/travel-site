@@ -15,7 +15,7 @@
   \***********************************/
 /***/ (() => {
 
-eval("alert(\"Hello, this is just a test!!!\")\n\n//# sourceURL=webpack://travel-site/./app/assets/scripts/App.js?");
+eval("alert(\"Hello, this is just the beginning of great things!\")\n\n//# sourceURL=webpack://travel-site/./app/assets/scripts/App.js?");
 
 /***/ })
 
