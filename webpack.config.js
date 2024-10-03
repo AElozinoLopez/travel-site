@@ -11,7 +11,8 @@ module.exports = {
     module: {
         rules: [
             {
-                test: /\.css$/i  //This tells webpack to treat any file with .css extension
+                test: /\.css$/i,  //This tells webpack to treat any file with .css extension
+                use: ['css-loader']
             }
         ]
     }
