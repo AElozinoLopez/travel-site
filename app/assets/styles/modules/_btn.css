@@ -1,6 +1,7 @@
-$mainBlue: #2f5572;
-
 .btn {
     background-color: $mainBlue;
     color: #FFF;
+    text-decoration: none;
+    padding: 1.2rem;
+    display: inline-block;
 }
