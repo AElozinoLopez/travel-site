@@ -1,6 +1,6 @@
 $mainBlue: #2f5572;
 
 .btn {
-    background-color: #2f5572;
+    background-color: $mainBlue;
     color: #FFF;
 }
