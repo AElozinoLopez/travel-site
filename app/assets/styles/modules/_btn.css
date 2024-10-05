@@ -6,6 +6,6 @@
     display: inline-block;
 
     &.btn__orange {
-        background-color: #d59541;
+        background-color: $mainOrange;
     }
 }
