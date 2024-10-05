@@ -16,7 +16,10 @@ module.exports = {
     devServer: {
         static: {
             directory: path.join(__dirname, "app")
-        }
+        },
+        hot: true,  
+        port: 3000,
+        liveReload: false
     },
     mode: 'development',
     watch: true,
