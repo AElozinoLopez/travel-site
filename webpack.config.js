@@ -21,8 +21,7 @@ module.exports = {
         port: 3000,
         liveReload: false
     },
-    mode: 'development'
-    
+    mode: 'development',    
     module: {
         rules: [
             {
