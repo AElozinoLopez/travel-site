@@ -19,7 +19,7 @@ module.exports = {
         },
         hot: true,  
         port: 3000,
-        liveReload: false
+       
     },
     mode: 'development',    
     module: {
