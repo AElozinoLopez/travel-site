@@ -6,4 +6,8 @@
     &--centered {
         text-align: center;
     }
+
+    &--orange {
+        color: $mainOrange;
+    }
 }
