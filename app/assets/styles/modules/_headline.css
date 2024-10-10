@@ -14,4 +14,8 @@
     &--small {
         font-size: 1.875rem;
     }
+
+    &--narrow {
+        max-width: 500px;
+    }
 }
