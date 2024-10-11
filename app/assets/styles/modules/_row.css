@@ -1,6 +1,11 @@
 .row {
 
-    @mixin clearfix;
+    @mixin clearfix; 
+
+    &--gutters > div {
+        padding-right: 65px;
+        box-sizing: border-box;
+    }
 
     &__4 {
         float: left;
