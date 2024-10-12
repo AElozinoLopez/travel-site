@@ -4,4 +4,8 @@
         font-size: 1.125rem;
         margin: 1.8rem 0;
     }    
+
+    p a {
+        font-weight: 700;
+    }
 }
