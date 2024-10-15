@@ -20,6 +20,7 @@
         @mixin atSmall {
             margin-right: .5rem;
             margin-left: 0;
+            margin-bottom: 0;
             display: inline-block;
         }
     }
