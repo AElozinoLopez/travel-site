@@ -70,6 +70,11 @@
         @mixin atMedium {
             display: flex;
         }
+
+        & > div {
+            float: none;
+            display: flex;
+        }
     }
     
 }
