@@ -5,6 +5,7 @@
 
     @mixin atMedium {
         padding: 0 1.8125rem 1px 1.8125rem;
+        margin-bottom: 0;
     }
 
     &__photo {
