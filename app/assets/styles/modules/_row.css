@@ -76,5 +76,16 @@
             display: flex;
         }
     }
+
+    &--equal-height-at-large {
+        @mixin atLarge {
+            display: flex;
+        }
+
+        & > div {
+            float: none;
+            display: flex;
+        }
+    }
     
 }
