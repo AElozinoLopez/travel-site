@@ -7,6 +7,11 @@
     &__text {
         display: block;
         margin-bottom: 1rem;
+
+        @mixin atMedium {
+            display: inline;
+            margin-bottom: 0;
+        }
     }
 
 }
