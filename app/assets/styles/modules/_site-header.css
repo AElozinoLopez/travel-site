@@ -7,4 +7,8 @@
     &__btn-container {
         float: right;
     }
+
+    &__logo {
+        position: absolute;
+    }
 }
