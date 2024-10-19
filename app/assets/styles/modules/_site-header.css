@@ -10,5 +10,8 @@
 
     &__logo {
         position: absolute;
+        background-color: $mainBlue;
+        padding: 25px 36px;
+
     }
 }
