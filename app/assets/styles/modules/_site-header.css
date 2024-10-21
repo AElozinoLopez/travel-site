@@ -26,7 +26,13 @@
             transform: translateX(0);
             padding: 25px 36px;
         }
-    }  
+    } 
+    
+    &__menu-icon {
+        width: 20px;
+        height: 20px;
+        background-color: #fff;        
+    }
     
     &__menu-content {
         display: none;
