@@ -5,15 +5,15 @@
     }
 
     &--gutters {
-        margin-right: -65px;
+        column-gap: 65px;
     }
 
     &--gutters-large {
-        margin-right: -100px;
+        column-gap: 100px;
     }
 
     &--gutters-small {
-        margin-right: -45px;
+        column-gap: 45px;
     }
 
     
