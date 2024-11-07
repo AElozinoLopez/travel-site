@@ -48,8 +48,7 @@
         }
 
         &__large-4 {
-            float: left;
-            width: 33.33%;
+            grid-column: span 4;
         }
 
         &__large-4--larger {
