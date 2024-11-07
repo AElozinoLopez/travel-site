@@ -22,6 +22,8 @@
     }
 
     @mixin atMedium {
+        display: grid;
+        grid-template-columns: repeat(12, 1fr);
 
         &__b-margin-until-medium {
             margin-bottom: 0;
