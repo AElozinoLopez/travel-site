@@ -1,5 +1,4 @@
 .row {
-
     
     &--t-padding {
         padding-top: 80px;
@@ -17,19 +16,7 @@
         margin-right: -45px;
     }
 
-    &--gutters > div {
-        padding-right: 65px;
-        
-    }
-
-    &--gutters-large > div {
-        padding-right: 100px;
-    }
-
-    &--gutters-small > div {
-        padding-right: 45px;
-    }
-
+    
     &__b-margin-until-medium {
         margin-bottom: 1rem;        
     }
