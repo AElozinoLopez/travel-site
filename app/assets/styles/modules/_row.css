@@ -49,11 +49,7 @@
 
         &__large-4 {
             grid-column: span 4;
-        }
-
-        &__large-4--larger {
-            width: 37%;
-        }
+        }        
 
         &__large-6 {
             float: left;
