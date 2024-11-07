@@ -5,15 +5,15 @@
     }
 
     &--gutters {
-        column-gap: 65px;
+        column-gap: 5.3%;
     }
 
     &--gutters-large {
-        column-gap: 100px;
+        column-gap: 8%;
     }
 
     &--gutters-small {
-        column-gap: 45px;
+        column-gap: 3.6%;
     }
 
     
