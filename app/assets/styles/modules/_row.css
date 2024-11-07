@@ -38,10 +38,7 @@
         &__medium-8 {
             grid-column: span 8;
         }
-
-        &__medium-8--smaller {
-            width: 63%;
-        }
+        
     }
 
     @mixin atLarge {
