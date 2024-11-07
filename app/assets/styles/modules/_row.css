@@ -52,13 +52,11 @@
         }        
 
         &__large-6 {
-            float: left;
-            width: 50%;
+            grid-column: span 6;
         }
     
         &__large-8 {
-            float: left;
-            width: 66.66%;
+            grid-column: span 8;
         }
 
         &__large-8--smaller {
