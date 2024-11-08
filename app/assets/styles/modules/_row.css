@@ -78,8 +78,7 @@
             
         }
 
-        & > div {
-            float: none;
+        & > div {           
             display: flex;
         }
     }
