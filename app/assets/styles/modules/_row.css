@@ -58,7 +58,7 @@
         &__large-8 {
             grid-column: span 8;
         }
-                
+
     }
 
     /* Begin Equal Height Rules */
@@ -75,7 +75,7 @@
 
     &--equal-height-at-large {
         @mixin atLarge {
-            display: flex;
+            
         }
 
         & > div {
