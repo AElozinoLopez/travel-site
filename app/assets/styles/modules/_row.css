@@ -75,12 +75,11 @@
 
     &--equal-height-at-large {
         @mixin atLarge {
-            
+            & > div {           
+                display: flex;
+            }            
         }
-
-        & > div {           
-            display: flex;
-        }
+        
     }
     
 }
