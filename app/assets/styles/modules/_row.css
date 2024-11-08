@@ -47,6 +47,27 @@
             margin-bottom: 0;
         }
 
+        &__large-1,
+        &__large-2,
+        &__large-3,
+        &__large-4,
+        &__large-5,
+        &__large-6,
+        &__large-7,
+        &__large-8,
+        &__large-9,
+        &__large-10,
+        &__large-11,
+        &__large-12 {
+            grid-column: span 12;
+        }
+        
+
+        
+
+        
+
+
         &__large-4 {
             grid-column: span 4;
         }        
