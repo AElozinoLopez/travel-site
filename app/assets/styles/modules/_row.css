@@ -58,10 +58,7 @@
         &__large-8 {
             grid-column: span 8;
         }
-
-        &__large-8--smaller {
-            width: 63%;
-        }
+                
     }
 
     /* Begin Equal Height Rules */
