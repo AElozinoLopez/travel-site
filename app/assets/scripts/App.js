@@ -5,4 +5,4 @@ if (module.hot) {
     module.hot.accept()
 }
 
-console.log("This is a test!");
+console.log("Hello, my name is Elozino Lopez and my favorite color is blue.");
