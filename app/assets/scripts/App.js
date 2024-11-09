@@ -6,4 +6,4 @@ if (module.hot) {
 }
 
 console.log("Hello, my name is Elozino Lopez and my favorite color is blue.");
-console.log("Hello, my name is Elozino Lopez and my favorite color is green.");
+console.log("Hello, my name is Chinwe Osuoabo and my favorite color is green.");
