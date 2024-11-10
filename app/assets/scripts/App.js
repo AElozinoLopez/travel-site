@@ -5,8 +5,9 @@ if (module.hot) {
     module.hot.accept()
 }
 
-function person() {
+function person(name, favColor) {
     console.log("Hello, my name is " + blank + "and my favorite color is " + blank + ".");
 }
 
 person("Elozino Lopez", "blue");
+person("Chinwe Elozino-Lopez", "glo green");
