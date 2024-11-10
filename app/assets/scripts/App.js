@@ -9,5 +9,8 @@ function person(name, favColor) {
     console.log("Hello, my name is " + name + "and my favorite color is " + favColor + ".");
 }
 
+let elozinoName = "Elozino Lopez";
+let elozinoFavColor = "blue";
+
 person("Elozino Lopez", "blue");
 person("Chinwe Elozino-Lopez", "glo green");
