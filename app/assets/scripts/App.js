@@ -5,5 +5,6 @@ if (module.hot) {
     module.hot.accept()
 }
 
-console.log("Hello, my name is Elozino Lopez and my favorite color is blue.");
-console.log("Hello, my name is Chinwe Osuoabo and my favorite color is green.");
+function person() {
+    console.log("Hello, my name is " + blank + "and my favorite color is " + blank + ".");
+}
