@@ -12,5 +12,5 @@ function person(name, favColor) {
 let elozinoName = "Elozino Lopez";
 let elozinoFavColor = "blue";
 
-person("Elozino Lopez", "blue");
+person(elozinoName, elozinoFavColor);
 person("Chinwe Elozino-Lopez", "glo green");
