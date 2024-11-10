@@ -8,3 +8,5 @@ if (module.hot) {
 function person() {
     console.log("Hello, my name is " + blank + "and my favorite color is " + blank + ".");
 }
+
+person("Elozino Lopez", "blue");
