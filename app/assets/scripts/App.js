@@ -11,7 +11,10 @@ if (module.hot) {
 
 let elozino = {
     name: "Elozino Lopez",
-    favoriteColor: "blue"
+    favoriteColor: "blue",
+    greet: function() {
+        console.log("Oh hello!");
+    }
 }
 
 /*person(elozino.name, elozino.favoriteColor);
