@@ -23,11 +23,11 @@ elozino.greet();
 */
 
 // If more than one method is required in an object then use a Constructor function as below:
-function Person(fullName, favColor) {
-    this.favoriteColor = favColor;
+function Person(fullName, favColor) {    
     this.name = fullName;
+    this.favoriteColor = favColor;
     this.greet = function() {
-        console.log("Hello there!");
+        console.log("Hello, my name is " + this.name + " and my favorite color is " + this.favoriteColor + ".");
     }
 
 }
