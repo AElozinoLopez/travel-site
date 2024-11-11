@@ -31,6 +31,7 @@ function Person() {
 }
 
 var elozino = new Person();
+elozino.greet();
 
 /*person(elozino.name, elozino.favoriteColor);
 person("Chinwe Elozino-Lopez", "glo green"); */
