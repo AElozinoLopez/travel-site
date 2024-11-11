@@ -13,7 +13,7 @@ let elozino = {
     name: "Elozino Lopez",
     favoriteColor: "blue",
     greet: function() {
-        console.log("Oh hello!");
+        console.log("Hello, my name is " + elozino.name + " and my favorite color is " + elozino.favoriteColor + ".");
     }
 }
 
