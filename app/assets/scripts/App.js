@@ -24,8 +24,10 @@ elozino.greet();
 
 // If more than one method is required in an object then use a Constructor function as below:
 function Person() {
-    
+
 }
+
+var elozino = new Person();
 
 /*person(elozino.name, elozino.favoriteColor);
 person("Chinwe Elozino-Lopez", "glo green"); */
