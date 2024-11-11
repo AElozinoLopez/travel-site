@@ -30,10 +30,10 @@ function Person() {
 
 }
 
-var elozino = new Person();
+var elozino = new Person("Elozino Lopez");
 elozino.greet();
 
-var chinwe = new Person();
+var chinwe = new Person("Chinwe Elozino-Lopez");
 chinwe.greet();
 
 /*person(elozino.name, elozino.favoriteColor);
