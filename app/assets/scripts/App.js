@@ -5,14 +5,14 @@ if (module.hot) {
     module.hot.accept()
 }
 
-function person(name, favColor) {
+/* function person(name, favColor) {
     console.log("Hello, my name is " + name + "and my favorite color is " + favColor + ".");
-}
+} */
 
 let elozino = {
     name: "Elozino Lopez",
     favoriteColor: "blue"
 }
 
-person(elozinoName, elozinoFavColor);
-person("Chinwe Elozino-Lopez", "glo green");
+/*person(elozino.name, elozino.favoriteColor);
+person("Chinwe Elozino-Lopez", "glo green"); */
