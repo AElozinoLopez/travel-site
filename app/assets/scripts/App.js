@@ -1,4 +1,5 @@
 import '../styles/styles.css'
+import Person from './modules/Person'
 
 /* This line of code is for hot module replacement. */
 if (module.hot) {
@@ -33,7 +34,7 @@ function Person(fullName, favColor) {
 }
 */
 
-var elozino = new Person("Elozino Lopez", "blue");
+var elozino = new Person("Elozino Lopez", "red");
 elozino.greet();
 
 var chinwe = new Person("Chinwe Elozino-Lopez", "glo-green");
