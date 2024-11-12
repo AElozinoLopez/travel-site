@@ -23,7 +23,15 @@ elozino.greet();
 */
 
 // If more than one method is required in an object then use a Constructor function as below:
-
+/*
+function Person(fullName, favColor) {    
+    this.name = fullName;
+    this.favoriteColor = favColor;
+    this.greet = function() {
+        console.log("Hello, my name is " + this.name + " and my favorite color is " + this.favoriteColor + ".");
+    }
+}
+*/
 
 var elozino = new Person("Elozino Lopez", "blue");
 elozino.greet();
